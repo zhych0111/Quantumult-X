@@ -1,1 +1,2 @@
-#### 诸多流媒体的logo图片存放在这里！！！
+# Quantumult-x
+quantumult x的filter, rewrite, Anti-Ads规则(自用)

@@ -1,0 +1,7 @@
+HOST-SUFFIX,netflix.com,NETFLIX
+HOST-SUFFIX,netflix.net,NETFLIX
+HOST-SUFFIX,nflximg.net,NETFLIX
+HOST-SUFFIX,nflximg.com,NETFLIX
+HOST-SUFFIX,nflxvideo.net,NETFLIX
+HOST-SUFFIX,nflxso.net,NETFLIX
+HOST-SUFFIX,nflxext.com,NETFLIX
